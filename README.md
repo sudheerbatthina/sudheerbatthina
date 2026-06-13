@@ -5,7 +5,7 @@
 ### Senior AI/ML Engineer · Agentic AI · RAG · LLMs · MLOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheerbatthina/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://sourcebound.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://sudheerbatthina.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudheerbatthina@gmail.com)
 
 </div>
