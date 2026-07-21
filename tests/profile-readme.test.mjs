@@ -30,3 +30,10 @@ test('does not expose the phone number or link private source', () => {
   assert.doesNotMatch(readme, /716[-\s]305[-\s]8248/);
   assert.doesNotMatch(readme, /github\.com\/sudheerbatthina\/Sourcebound/i);
 });
+
+test('frames enterprise platform experience without implying direct employment', () => {
+  for (const company of ['NVIDIA', 'Google Cloud', 'Adobe', 'Salesforce', 'Databricks', 'Microsoft', 'AWS']) {
+    assert.match(readme, new RegExp(company, 'i'));
+  }
+  assert.match(readme, /enterprise technology ecosystems/i);
+});

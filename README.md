@@ -4,7 +4,7 @@
 
 I build AI systems that move from prototype to dependable production. My work combines agentic workflows, retrieval, evaluation, APIs, data systems, and cloud delivery—with an emphasis on reliability, security, and measurable outcomes.
 
-[Portfolio](https://sudheerbatthina.github.io/) · [LinkedIn](https://www.linkedin.com/in/sudheerbatthina/) · [Email](mailto:sudheerbatthina@gmail.com)
+[Portfolio](https://sudheerbatthina.github.io/) · [Résumé](https://sudheerbatthina.github.io/assets/sudheer-batthina-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/sudheerbatthina/) · [Email](mailto:sudheerbatthina@gmail.com)
 
 ## What I build
 
@@ -14,6 +14,8 @@ I build AI systems that move from prototype to dependable production. My work co
 - **Production ML:** Python services, data pipelines, containers, CI/CD, cloud deployment, and observability.
 
 I currently work as a **Senior AI/ML Engineer at Hologic** and hold an **MS in Data Science from the University at Buffalo**.
+
+In my current role, I deliver AI initiatives within enterprise technology ecosystems involving **NVIDIA, Google Cloud, Microsoft, AWS, Databricks, Adobe, and Salesforce**. My work also spans digital experience, commerce, and search platforms including **Sitecore, Optimizely, Contentstack, Contentful, commercetools, VTEX, and Coveo**, in collaboration with **Kin + Carta**.
 
 ## Selected systems
 
